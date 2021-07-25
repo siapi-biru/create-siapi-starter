@@ -17,7 +17,7 @@
     "js-yaml": "4.1.0",
     "node-fetch": "^2.6.1",
     "ora": "5.4.0",
-    "siapi-generate-new": "github:siapi-biru/siapi-generate-new#3.6.5",
+    "siapi-generate-new": "github:siapi-biru/siapi-generate-new",
     "tar": "6.1.0"
   },
   "scripts": {
